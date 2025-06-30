@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bokang</h1>
-<h3 align="center">A passionate Computer Scientist, with interests in Machine Learning and Software Design, both frontend and backend. I am currently studying my final year in Computer Science at the University of The Witwatersrand</h3>
-
-- I'm currently working on a social media application using Flutter and Firebase. [Blogger](https://github.com/BokangWAV/Blooger.git)
-
-- 🌱 I’m currently learning **Flutter**
+<h3 align="center">A passionate Computer Scientist, with interests in Machine Learning and Software Design, both frontend and backend. I am in Computer Science Graduate from the University of The Witwatersrand</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/BokangWAV](https://github.com/BokangWAV)
 
